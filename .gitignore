@@ -1,0 +1,8 @@
+# Operating System Files
+.DS_Store
+
+# Editor files
+.nova/
+
+# Local Only Files
+NovaGitToken.txt
