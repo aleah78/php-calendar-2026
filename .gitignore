@@ -4,5 +4,5 @@
 # Editor files
 .nova/
 
-# Local Only Files
-.txt
+# Notes Files
+*.txt
